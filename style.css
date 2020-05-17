@@ -1,0 +1,59 @@
+body 
+{
+	background-color: #000077;
+	
+}
+#form
+{
+	color: #11f511;
+	
+}
+#powitania
+{
+	font-size: 40px;
+  color: #11f511;
+  
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+	
+}
+#powitania2
+{
+	font-size: 20px;
+  color: #11f511;
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+	
+}
+#powitania3
+{
+	font-size: 40px;
+  color: #11f511;
+  
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+	
+}
+#powitania4
+{
+	font-size: 20px;
+  color: #990000;
+  
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+	
+}
+#powitania5
+{
+	font-size: 17px;
+  color: #11f511;
+  
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+	
+}
